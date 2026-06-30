@@ -1,0 +1,6 @@
+{
+  "name": "SkillX Junior",
+  "description": "High-converting, interactive landing page for SkillX Junior's AI learning pathways for students and educators, optimized for Meta Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
